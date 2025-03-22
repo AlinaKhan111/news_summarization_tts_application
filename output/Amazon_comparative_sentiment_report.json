@@ -1,0 +1,497 @@
+{
+    "Company": "Amazon",
+    "Articles": [
+        {
+            "Title": "Washington Post Alumni Urged Jeff Bezos to Replace CEO Will Lewis",
+            "Summary": "An emailed message underscores a divide between the chief executive, Will Lewis, and the people who helped build The Post into a force in American journalism.",
+            "Sentiment": "Neutral",
+            "Topics": [
+                "Post",
+                "Washington Post Alumni"
+            ]
+        },
+        {
+            "Title": "17 Best Early Amazon Spring Sale Deals (2025)",
+            "Summary": "Now’s your chance to save on headphones, tablets, and home gadgets.",
+            "Sentiment": "Positive",
+            "Topics": []
+        },
+        {
+            "Title": "These smart glasses beat the Meta Ray-Bans in key ways, and they're $180 ahead of Amazon's Spring Sale - ZDNet",
+            "Summary": "These smart glasses beat the Meta Ray-Bans in key ways, and they're $180 ahead of Amazon's Spring Sale  ZDNet",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Amazon",
+                "Spring Sale",
+                "Spring Sale - ZDNet"
+            ]
+        },
+        {
+            "Title": "Amazon’s Big Spring Sale is back — dates announced and best deals live now - Tom's Guide",
+            "Summary": "Amazon’s Big Spring Sale is back — dates announced and best deals live now  Tom's GuideAmazon Is Already Releasing Deals for Its Big Spring Sale — Shop the 51 Best Picks for Travelers, From $8  Travel + Leisure50 Steep Amazon Deals to Snag Before Its Spring Sale Kicks Off—Up to 75% Off  Real Simple",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Best Picks for Travelers",
+                "Amazon"
+            ]
+        },
+        {
+            "Title": "Amazon is selling a 'quality' $1,021 portable power station for 50% off, and shoppers say it’s ‘ridiculously powerful’ - Yahoo Autos",
+            "Summary": "Amazon is selling a 'quality' $1,021 portable power station for 50% off, and shoppers say it’s ‘ridiculously powerful’  Yahoo Autos",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Amazon"
+            ]
+        },
+        {
+            "Title": "Amazon is selling $45 sandals for $22, and shoppers call them 'cute and comfortable' - TheStreet",
+            "Summary": "Amazon is selling $45 sandals for $22, and shoppers call them 'cute and comfortable'  TheStreet",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Amazon"
+            ]
+        },
+        {
+            "Title": "Amazon Is Canceling a Major Alexa Privacy Feature on March 28: Should You Worry? - CNET",
+            "Summary": "Amazon Is Canceling a Major Alexa Privacy Feature on March 28: Should You Worry?  CNET",
+            "Sentiment": "Negative",
+            "Topics": [
+                "CNET",
+                "Amazon"
+            ]
+        },
+        {
+            "Title": "Amazon CEO Andy Jassy shares his top tips for a successful career: ‘Don’t be afraid to fail’ - About Amazon",
+            "Summary": "Amazon CEO Andy Jassy shares his top tips for a successful career: ‘Don’t be afraid to fail’  About Amazon",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Amazon"
+            ]
+        },
+        {
+            "Title": "Amazon Is Clearing Out Fire TV Sticks, 50% Off Nearly All Models Including 4K - Gizmodo",
+            "Summary": "Amazon Is Clearing Out Fire TV Sticks, 50% Off Nearly All Models Including 4K  Gizmodo",
+            "Sentiment": "Negative",
+            "Topics": [
+                "Amazon Is Clearing Out Fire TV Sticks"
+            ]
+        },
+        {
+            "Title": "These 35 Products Are Trending On Amazon — And They're Totally Worth The Hype - BuzzFeed",
+            "Summary": "These 35 Products Are Trending On Amazon — And They're Totally Worth The Hype  BuzzFeed",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Amazon"
+            ]
+        },
+        {
+            "Title": "These ‘Soft and Smooth’ Stretchy Pants Pass as Work Attire — and They’re on Sale for $20 at Amazon - PEOPLE",
+            "Summary": "These ‘Soft and Smooth’ Stretchy Pants Pass as Work Attire — and They’re on Sale for $20 at Amazon  PEOPLE",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Amazon - PEOPLE",
+                "Amazon"
+            ]
+        },
+        {
+            "Title": "Laundry detergent sold on Amazon recalled due to potentially deadly bacteria contamination - Fox Business",
+            "Summary": "Laundry detergent sold on Amazon recalled due to potentially deadly bacteria contamination  Fox Business",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Fox Business",
+                "Amazon"
+            ]
+        },
+        {
+            "Title": "Amazon fast track next James Bond film as they shell out HUGE budget after buying iconic franchise for nearly $1bn - The US Sun",
+            "Summary": "Amazon fast track next James Bond film as they shell out HUGE budget after buying iconic franchise for nearly $1bn  The US Sun",
+            "Sentiment": "Positive",
+            "Topics": [
+                "The US Sun",
+                "Amazon"
+            ]
+        },
+        {
+            "Title": "An Update About ‘House Of David’ Season 2 On Amazon Prime Video - Forbes",
+            "Summary": "An Update About ‘House Of David’ Season 2 On Amazon Prime Video  Forbes",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Amazon"
+            ]
+        },
+        {
+            "Title": "Apple’s most affordable M4 Mac mini back at $499 Amazon all-time low, plus upgraded configs and M4 Pro now $100 off - 9to5Toys",
+            "Summary": "Apple’s most affordable M4 Mac mini back at $499 Amazon all-time low, plus upgraded configs and M4 Pro now $100 off  9to5Toys",
+            "Sentiment": "Negative",
+            "Topics": [
+                "M4 Pro",
+                "Apple",
+                "Amazon",
+                "M4 Mac"
+            ]
+        },
+        {
+            "Title": "Are Bucks County Kohl's department stores still accepting Amazon returns? - phillyBurbs.com",
+            "Summary": "Are Bucks County Kohl's department stores still accepting Amazon returns?  phillyBurbs.com",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Amazon"
+            ]
+        },
+        {
+            "Title": "Amazon Big Spring Sale 2025 is coming March 25-31—here are your top FAQs answered - About Amazon",
+            "Summary": "Amazon Big Spring Sale 2025 is coming March 25-31—here are your top FAQs answered  About Amazon",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Amazon Big Spring Sale 2025",
+                "Amazon"
+            ]
+        },
+        {
+            "Title": "Every Way to Return Amazon Orders for Free - CNET",
+            "Summary": "Every Way to Return Amazon Orders for Free  CNET",
+            "Sentiment": "Positive",
+            "Topics": []
+        },
+        {
+            "Title": "Introducing the next generation of Amazon Connect: AI-powered interactions that strengthen customer relationships and improve business outcomes - AWS Blog",
+            "Summary": "Introducing the next generation of Amazon Connect: AI-powered interactions that strengthen customer relationships and improve business outcomes  AWS Blog",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Amazon Connect"
+            ]
+        },
+        {
+            "Title": "I'm Buying Now: Amazon UK Has More Pokémon TCG Stock Than Amazon US - IGN",
+            "Summary": "I'm Buying Now: Amazon UK Has More Pokémon TCG Stock Than Amazon US  IGN",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Pokémon TCG Stock",
+                "US",
+                "UK"
+            ]
+        },
+        {
+            "Title": "Amazon to sell carbon credits to suppliers, customers - Reuters",
+            "Summary": "Amazon to sell carbon credits to suppliers, customers  Reuters",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Amazon",
+                "Reuters"
+            ]
+        },
+        {
+            "Title": "Amazon Takes Up to $47 Off Apple's New iPad, Now Starting at $328.86 - MacRumors",
+            "Summary": "Amazon Takes Up to $47 Off Apple's New iPad, Now Starting at $328.86  MacRumors",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Apple",
+                "Amazon"
+            ]
+        },
+        {
+            "Title": "Amazon Fresh shutters two stores - Grocery Dive",
+            "Summary": "Amazon Fresh shutters two stores  Grocery Dive",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Amazon Fresh",
+                "Grocery Dive"
+            ]
+        },
+        {
+            "Title": "*Tons* Of Amazon Customers Have These 29 Products For Spring On Their Wish Lists, So You’ll Probably Want 'Em Too - BuzzFeed",
+            "Summary": "*Tons* Of Amazon Customers Have These 29 Products For Spring On Their Wish Lists, So You’ll Probably Want 'Em Too  BuzzFeed",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Amazon Customers Have"
+            ]
+        },
+        {
+            "Title": "Amazon CEO Andy Jassy criticizes manager fiefdoms and stresses the need for 'meritocracy' in a leaked recording - Business Insider",
+            "Summary": "Amazon CEO Andy Jassy criticizes manager fiefdoms and stresses the need for 'meritocracy' in a leaked recording  Business Insider",
+            "Sentiment": "Negative",
+            "Topics": [
+                "Amazon"
+            ]
+        },
+        {
+            "Title": "Amazon wants a product safety regulator declared unconstitutional - The Washington Post",
+            "Summary": "Amazon wants a product safety regulator declared unconstitutional  The Washington Post",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Amazon",
+                "The Washington Post"
+            ]
+        },
+        {
+            "Title": "Amazon Stock Nears Seventh Losing Week As Wall Street Sizes Up Tech Giant's Used-Car Plans - Investor's Business Daily",
+            "Summary": "Amazon Stock Nears Seventh Losing Week As Wall Street Sizes Up Tech Giant's Used-Car Plans  Investor's Business Daily",
+            "Sentiment": "Negative",
+            "Topics": [
+                "Amazon Stock"
+            ]
+        },
+        {
+            "Title": "Amazon launches Amazon.ie in Ireland - About Amazon",
+            "Summary": "Amazon launches Amazon.ie in Ireland  About Amazon",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Ireland",
+                "Amazon"
+            ]
+        },
+        {
+            "Title": "Amazon launches a carbon credit service, enabling access to high-quality credits for qualified companies - About Amazon",
+            "Summary": "Amazon launches a carbon credit service, enabling access to high-quality credits for qualified companies  About Amazon",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Amazon"
+            ]
+        },
+        {
+            "Title": "Amazon's Kindle Scribe makes minor improvements but it's not enough - Mashable",
+            "Summary": "Amazon's Kindle Scribe makes minor improvements but it's not enough  Mashable",
+            "Sentiment": "Positive",
+            "Topics": [
+                "Amazon"
+            ]
+        }
+    ],
+    "Comparative Sentiment Score": {
+        "Sentiment Distribution": {
+            "Positive": 24,
+            "Negative": 5,
+            "Neutral": 1
+        },
+        "Coverage Differences": [
+            {
+                "Comparison": "Article 1 highlights An emailed message underscores a divide between th... while Article 2 discusses Now’s your chance to save on headphones, tablets, ...",
+                "Impact": "The first article emphasizes neutral sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 2 highlights Now’s your chance to save on headphones, tablets, ... while Article 3 discusses These smart glasses beat the Meta Ray-Bans in key ...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 3 highlights These smart glasses beat the Meta Ray-Bans in key ... while Article 4 discusses Amazon’s Big Spring Sale is back — dates announced...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 4 highlights Amazon’s Big Spring Sale is back — dates announced... while Article 5 discusses Amazon is selling a 'quality' $1,021 portable powe...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 5 highlights Amazon is selling a 'quality' $1,021 portable powe... while Article 6 discusses Amazon is selling $45 sandals for $22, and shopper...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 6 highlights Amazon is selling $45 sandals for $22, and shopper... while Article 7 discusses Amazon Is Canceling a Major Alexa Privacy Feature ...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects negative sentiment."
+            },
+            {
+                "Comparison": "Article 7 highlights Amazon Is Canceling a Major Alexa Privacy Feature ... while Article 8 discusses Amazon CEO Andy Jassy shares his top tips for a su...",
+                "Impact": "The first article emphasizes negative sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 8 highlights Amazon CEO Andy Jassy shares his top tips for a su... while Article 9 discusses Amazon Is Clearing Out Fire TV Sticks, 50% Off Nea...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects negative sentiment."
+            },
+            {
+                "Comparison": "Article 9 highlights Amazon Is Clearing Out Fire TV Sticks, 50% Off Nea... while Article 10 discusses These 35 Products Are Trending On Amazon — And The...",
+                "Impact": "The first article emphasizes negative sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 10 highlights These 35 Products Are Trending On Amazon — And The... while Article 11 discusses These ‘Soft and Smooth’ Stretchy Pants Pass as Wor...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 11 highlights These ‘Soft and Smooth’ Stretchy Pants Pass as Wor... while Article 12 discusses Laundry detergent sold on Amazon recalled due to p...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 12 highlights Laundry detergent sold on Amazon recalled due to p... while Article 13 discusses Amazon fast track next James Bond film as they she...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 13 highlights Amazon fast track next James Bond film as they she... while Article 14 discusses An Update About ‘House Of David’ Season 2 On Amazo...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 14 highlights An Update About ‘House Of David’ Season 2 On Amazo... while Article 15 discusses Apple’s most affordable M4 Mac mini back at $499 A...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects negative sentiment."
+            },
+            {
+                "Comparison": "Article 15 highlights Apple’s most affordable M4 Mac mini back at $499 A... while Article 16 discusses Are Bucks County Kohl's department stores still ac...",
+                "Impact": "The first article emphasizes negative sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 16 highlights Are Bucks County Kohl's department stores still ac... while Article 17 discusses Amazon Big Spring Sale 2025 is coming March 25-31—...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 17 highlights Amazon Big Spring Sale 2025 is coming March 25-31—... while Article 18 discusses Every Way to Return Amazon Orders for Free  CNET...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 18 highlights Every Way to Return Amazon Orders for Free  CNET... while Article 19 discusses Introducing the next generation of Amazon Connect:...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 19 highlights Introducing the next generation of Amazon Connect:... while Article 20 discusses I'm Buying Now: Amazon UK Has More Pokémon TCG Sto...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 20 highlights I'm Buying Now: Amazon UK Has More Pokémon TCG Sto... while Article 21 discusses Amazon to sell carbon credits to suppliers, custom...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 21 highlights Amazon to sell carbon credits to suppliers, custom... while Article 22 discusses Amazon Takes Up to $47 Off Apple's New iPad, Now S...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 22 highlights Amazon Takes Up to $47 Off Apple's New iPad, Now S... while Article 23 discusses Amazon Fresh shutters two stores  Grocery Dive...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 23 highlights Amazon Fresh shutters two stores  Grocery Dive... while Article 24 discusses *Tons* Of Amazon Customers Have These 29 Products ...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 24 highlights *Tons* Of Amazon Customers Have These 29 Products ... while Article 25 discusses Amazon CEO Andy Jassy criticizes manager fiefdoms ...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects negative sentiment."
+            },
+            {
+                "Comparison": "Article 25 highlights Amazon CEO Andy Jassy criticizes manager fiefdoms ... while Article 26 discusses Amazon wants a product safety regulator declared u...",
+                "Impact": "The first article emphasizes negative sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 26 highlights Amazon wants a product safety regulator declared u... while Article 27 discusses Amazon Stock Nears Seventh Losing Week As Wall Str...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects negative sentiment."
+            },
+            {
+                "Comparison": "Article 27 highlights Amazon Stock Nears Seventh Losing Week As Wall Str... while Article 28 discusses Amazon launches Amazon.ie in Ireland  About Amazon...",
+                "Impact": "The first article emphasizes negative sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 28 highlights Amazon launches Amazon.ie in Ireland  About Amazon... while Article 29 discusses Amazon launches a carbon credit service, enabling ...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects positive sentiment."
+            },
+            {
+                "Comparison": "Article 29 highlights Amazon launches a carbon credit service, enabling ... while Article 30 discusses Amazon's Kindle Scribe makes minor improvements bu...",
+                "Impact": "The first article emphasizes positive sentiment, while the second article reflects positive sentiment."
+            }
+        ],
+        "Topic Overlap": {
+            "Common Topics": [],
+            "Unique Topics": [
+                [
+                    "Post",
+                    "Washington Post Alumni"
+                ],
+                [],
+                [
+                    "Amazon",
+                    "Spring Sale",
+                    "Spring Sale - ZDNet"
+                ],
+                [
+                    "Best Picks for Travelers",
+                    "Amazon"
+                ],
+                [
+                    "Amazon"
+                ],
+                [
+                    "Amazon"
+                ],
+                [
+                    "CNET",
+                    "Amazon"
+                ],
+                [
+                    "Amazon"
+                ],
+                [
+                    "Amazon Is Clearing Out Fire TV Sticks"
+                ],
+                [
+                    "Amazon"
+                ],
+                [
+                    "Amazon - PEOPLE",
+                    "Amazon"
+                ],
+                [
+                    "Fox Business",
+                    "Amazon"
+                ],
+                [
+                    "The US Sun",
+                    "Amazon"
+                ],
+                [
+                    "Amazon"
+                ],
+                [
+                    "M4 Pro",
+                    "Apple",
+                    "Amazon",
+                    "M4 Mac"
+                ],
+                [
+                    "Amazon"
+                ],
+                [
+                    "Amazon Big Spring Sale 2025",
+                    "Amazon"
+                ],
+                [],
+                [
+                    "Amazon Connect"
+                ],
+                [
+                    "Pokémon TCG Stock",
+                    "US",
+                    "UK"
+                ],
+                [
+                    "Amazon",
+                    "Reuters"
+                ],
+                [
+                    "Apple",
+                    "Amazon"
+                ],
+                [
+                    "Amazon Fresh",
+                    "Grocery Dive"
+                ],
+                [
+                    "Amazon Customers Have"
+                ],
+                [
+                    "Amazon"
+                ],
+                [
+                    "Amazon",
+                    "The Washington Post"
+                ],
+                [
+                    "Amazon Stock"
+                ],
+                [
+                    "Ireland",
+                    "Amazon"
+                ],
+                [
+                    "Amazon"
+                ],
+                [
+                    "Amazon"
+                ]
+            ]
+        }
+    },
+    "Final Sentiment Analysis": "Amazon की नवीनतम समाचार कवरेज मुख्यतः सकारात्मक है। स्टॉक वृद्धि की संभावना है।",
+    "Audio": "/home/alina26/ML-Projects/news_summarization_tts_application/src/../output/sentiment_summary_hindi.mp3"
+}

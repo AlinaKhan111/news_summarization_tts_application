@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn
+pydantic
+beautifulsoup4
+feedparser
+nltk
+spacy
+gtts
+pandas
+requests
+spacy[en_core_web_sm]

@@ -385,8 +385,10 @@ The frontend is built using Streamlit, allowing users to:
 Accepts the company name as input using st.text_input().
 
 **API Endpoint:**
+```bash
+API_URL = "http://127.0.0.1:8000/analyze/"
+```
 
-`API_URL = "http://127.0.0.1:8000/analyze/"`
 The API handles:
 
 - News extraction
@@ -486,10 +488,11 @@ Plays the generated Hindi audio summary using st.audio().
 **Purpose:** Analyze news, perform sentiment analysis, and generate a Hindi TTS summary.
 
 **Payload:**
-`
+```bash
 {
   "company_name": "Tesla"
-}`
+}
+```
 
 **🎧 2. /download/{filename}**
 **Method:** `GET`
@@ -785,7 +788,7 @@ http://127.0.0.1:8000/download/sentiment_summary_hindi.mp3
 - VADER works best with short texts and may not handle complex narratives perfectly.
 
 
-## **🚀 Hugging Face Deployment**
+# **🚀 Hugging Face Deployment**
 The application has been successfully deployed on Hugging Face Spaces and is accessible at the following URL:
 
 🌐 Live Application URL

@@ -480,10 +480,31 @@ Plays the generated Hindi audio summary using st.audio().
 
 ### *****📝 2. API Endpoints Overview*****
 ---
-Endpoint	Method	Purpose	Payload / Params
-/analyze/	POST	Analyze news, perform sentiment analysis, and generate a TTS summary.	{ "company_name": "Tesla" }
-/download/{filename}	GET	Serve the generated Hindi audio summary dynamically.	filename in URL
-/	GET	Health check endpoint to confirm API status.	None
+**🔎 1. `/analyze/`**
+**Method:** `POST`
+
+**Purpose:** Analyze news, perform sentiment analysis, and generate a Hindi TTS summary.
+
+**Payload:**
+`
+{
+  "company_name": "Tesla"
+}`
+
+**🎧 2. /download/{filename}**
+**Method:** `GET`
+
+**Purpose:** Serve the generated Hindi audio summary dynamically.
+
+**Parameter:** `filename` in the URL.
+
+**🚀 3. /**
+**Method:** `GET`
+
+**Purpose:** Health check endpoint to confirm that the API is running.
+
+**No Payload Required.**
+
 
 ### *****🧠 3. Pydantic Model for Input Validation*****
 ---

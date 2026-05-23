@@ -130,14 +130,14 @@ def extract_news(company_name, max_articles=30):
                     seen_titles.add(title)
 
         except Exception as e:
-            print(f"⚠️ Error parsing feed {rss_url}. Skipping...")
+            print(f" Error parsing feed {rss_url}. Skipping...")
 
     csv_file_path = os.path.join(DATA_DIR, f"{company_name}_news.csv")
     if articles:
         pd.DataFrame(articles).to_csv(csv_file_path, index=False)
-        print(f"✅ Successfully saved {len(articles)} articles in '{csv_file_path}'.")
+        print(f" Successfully saved {len(articles)} articles in '{csv_file_path}'.")
     else:
-        print(f"⚠️ No articles found for '{company_name}'.")
+        print(f" No articles found for '{company_name}'.")
     
     return csv_file_path
 
@@ -288,7 +288,7 @@ def save_final_report(company_name, articles_data, topic_overlap, coverage_diffe
     with open(json_file_path, "w", encoding="utf-8") as f:
         json.dump(report, f, ensure_ascii=False, indent=4)
     
-    print(f"✅ Final report saved to '{json_file_path}'.")
+    print(f" Final report saved to '{json_file_path}'.")
     return json_file_path
 
 
@@ -341,12 +341,12 @@ def run_pipeline(company_name):
 
 #     Check if input is valid
 #     if not company_name:
-#         print("⚠️ Company name cannot be empty. Please provide a valid name.")
+#         print(" Company name cannot be empty. Please provide a valid name.")
 #     else:
 #         Run the pipeline for the given company
-#         print(f"🚀 Running pipeline for '{company_name}'...")
+#         print(f" Running pipeline for '{company_name}'...")
 #         report_path, audio_path = run_pipeline(company_name)
 
 #         Confirm the output
-#         print(f"✅ Report saved at: {report_path}")
-#         print(f"✅ Hindi TTS audio saved at: {audio_path}")
+#         print(f" Report saved at: {report_path}")
+#         print(f" Hindi TTS audio saved at: {audio_path}")
